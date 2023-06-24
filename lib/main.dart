@@ -447,7 +447,7 @@ class _AnaSayfaState extends State<AnaSayfa>
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(12),
                   image: DecorationImage(
-                    // fit: BoxFit.cover,
+                    fit: BoxFit.cover,
                     image: AssetImage(logoPath),
                   ),
                 ),
